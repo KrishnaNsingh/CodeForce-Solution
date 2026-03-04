@@ -95,7 +95,7 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>12</td>
-<td><a href="http://codeforces.com/problemset/problem/61/A" target="_blank">Ultra-Fast Mathematician</a></td>
+<td><a href="http://codeforces.com/problemset/problem/61/A" target="_blank">Ultra-Fast Mathematician✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/ultra_fast_mathematician.cpp">Code</a></td>
