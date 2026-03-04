@@ -18,63 +18,63 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>1</td>
-<td><a href="http://codeforces.com/problemset/problem/69/A" target="_blank">Young Physicist</a></td>
+<td><a href="http://codeforces.com/problemset/problem/69/A" target="_blank">Young Physicist✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/young_physicist.cpp">Code</a></td>
 </tr>
 <tr>
 <td>2</td>
-<td><a href="http://codeforces.com/problemset/problem/263/A" target="_blank">Beautiful Matrix</a></td>
+<td><a href="http://codeforces.com/problemset/problem/263/A" target="_blank">Beautiful Matrix✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/beautiful_matrix.cpp">Code</a></td>
 </tr>
 <tr>
 <td>3</td>
-<td><a href="http://codeforces.com/problemset/problem/266/B" target="_blank">Queue at the School</a></td>
+<td><a href="http://codeforces.com/problemset/problem/266/B" target="_blank">Queue at the School✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/queue_at_the_school.cpp">Code</a></td>
 </tr>
 <tr>
 <td>4</td>
-<td><a href="http://codeforces.com/problemset/problem/32/B" target="_blank">Borze</a></td>
+<td><a href="http://codeforces.com/problemset/problem/32/B" target="_blank">Borze✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/borze.cpp">Code</a></td>
 </tr>
 <tr>
 <td>5</td>
-<td><a href="http://codeforces.com/problemset/problem/271/A" target="_blank">Beautiful Year</a></td>
+<td><a href="http://codeforces.com/problemset/problem/271/A" target="_blank">Beautiful Year✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/beautiful_year.cpp">Code</a></td>
 </tr>
 <tr>
 <td>6</td>
-<td><a href="http://codeforces.com/problemset/problem/275/A" target="_blank">Lights Out</a></td>
+<td><a href="http://codeforces.com/problemset/problem/275/A" target="_blank">Lights Out✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="">Code</a></td>
 </tr>
 <tr>
 <td>7</td>
-<td><a href="http://codeforces.com/problemset/problem/59/A" target="_blank">Word</a></td>
+<td><a href="http://codeforces.com/problemset/problem/59/A" target="_blank">Word✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/word.py">Code</a></td>
 </tr>
 <tr>
 <td>8</td>
-<td><a href="http://codeforces.com/problemset/problem/281/A" target="_blank">Word Capitalization</a></td>
+<td><a href="http://codeforces.com/problemset/problem/281/A" target="_blank">Word Capitalization✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/word_captilization.cpp">Code</a></td>
 </tr>
 <tr>
 <td>9</td>
-<td><a href="http://codeforces.com/problemset/problem/110/A" target="_blank">Nearly Lucky Number</a></td>
+<td><a href="http://codeforces.com/problemset/problem/110/A" target="_blank">Nearly Lucky Number✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/nearly_lucky_number.cpp">Code</a></td>
@@ -88,7 +88,7 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>11</td>
-<td><a href="http://codeforces.com/problemset/problem/80/A" target="_blank">Panoramix's Prediction</a></td>
+<td><a href="http://codeforces.com/problemset/problem/80/A" target="_blank">Panoramix's Prediction✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/panoramix_prediction.cpp">Code</a></td>
