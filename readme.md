@@ -102,7 +102,7 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>13</td>
-<td><a href="http://codeforces.com/problemset/problem/233/A" target="_blank">Perfect Permutation</a></td>
+<td><a href="http://codeforces.com/problemset/problem/233/A" target="_blank">Perfect Permutation✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="">Code</a></td>
