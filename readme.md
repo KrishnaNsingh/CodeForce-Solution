@@ -109,7 +109,7 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>14</td>
-<td><a href="http://codeforces.com/problemset/problem/144/A" target="_blank">Arrival of the General</a></td>
+<td><a href="http://codeforces.com/problemset/problem/144/A" target="_blank">Arrival of the General✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="">Code</a></td>
