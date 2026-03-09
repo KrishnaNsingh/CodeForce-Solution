@@ -116,14 +116,14 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>15</td>
-<td><a href="http://codeforces.com/problemset/problem/200/B" target="_blank">Drinks</a></td>
+<td><a href="http://codeforces.com/problemset/problem/200/B" target="_blank">Drinks✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/drinks.cpp">Code</a></td>
 </tr>
 <tr>
 <td>16</td>
-<td><a href="http://codeforces.com/problemset/problem/148/A" target="_blank">Insomnia cure</a></td>
+<td><a href="http://codeforces.com/problemset/problem/148/A" target="_blank">Insomnia cure✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/insomnia_cure.cpp">Code</a></td>
