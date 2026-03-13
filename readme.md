@@ -130,7 +130,7 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>17</td>
-<td><a href="http://codeforces.com/problemset/problem/248/A" target="_blank">Cupboards</a></td>
+<td><a href="http://codeforces.com/problemset/problem/248/A" target="_blank">Cupboards✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/cupboards.cpp">Code</a></td>
