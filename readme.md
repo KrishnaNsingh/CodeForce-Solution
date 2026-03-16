@@ -21,35 +21,35 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/69/A" target="_blank">Young Physicist✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/young_physicist.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/young_physicist.cpp">Code</a></td>
 </tr>
 <tr>
 <td>2</td>
 <td><a href="http://codeforces.com/problemset/problem/263/A" target="_blank">Beautiful Matrix✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/beautiful_matrix.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/beautiful_matrix.cpp">Code</a></td>
 </tr>
 <tr>
 <td>3</td>
 <td><a href="http://codeforces.com/problemset/problem/266/B" target="_blank">Queue at the School✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/queue_at_the_school.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/queue_at_the_school.cpp">Code</a></td>
 </tr>
 <tr>
 <td>4</td>
 <td><a href="http://codeforces.com/problemset/problem/32/B" target="_blank">Borze✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/borze.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/borze.cpp">Code</a></td>
 </tr>
 <tr>
 <td>5</td>
 <td><a href="http://codeforces.com/problemset/problem/271/A" target="_blank">Beautiful Year✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/beautiful_year.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/beautiful_year.cpp">Code</a></td>
 </tr>
 <tr>
 <td>6</td>
@@ -63,42 +63,42 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/59/A" target="_blank">Word✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/word.py">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/word.py">Code</a></td>
 </tr>
 <tr>
 <td>8</td>
 <td><a href="http://codeforces.com/problemset/problem/281/A" target="_blank">Word Capitalization✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/word_captilization.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/word_captilization.cpp">Code</a></td>
 </tr>
 <tr>
 <td>9</td>
 <td><a href="http://codeforces.com/problemset/problem/110/A" target="_blank">Nearly Lucky Number✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/nearly_lucky_number.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/nearly_lucky_number.cpp">Code</a></td>
 </tr>
 <tr>
 <td>10</td>
 <td><a href="http://codeforces.com/problemset/problem/266/A" target="_blank">Stones on the Table✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/stones_on_the_table.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/stones_on_the_table.cpp">Code</a></td>
 </tr>
 <tr>
 <td>11</td>
 <td><a href="http://codeforces.com/problemset/problem/80/A" target="_blank">Panoramix's Prediction✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/panoramix_prediction.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/panoramix_prediction.cpp">Code</a></td>
 </tr>
 <tr>
 <td>12</td>
 <td><a href="http://codeforces.com/problemset/problem/61/A" target="_blank">Ultra-Fast Mathematician✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/ultra_fast_mathematician.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/ultra_fast_mathematician.cpp">Code</a></td>
 </tr>
 <tr>
 <td>13</td>
@@ -119,28 +119,28 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/200/B" target="_blank">Drinks✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/drinks.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/drinks.cpp">Code</a></td>
 </tr>
 <tr>
 <td>16</td>
 <td><a href="http://codeforces.com/problemset/problem/148/A" target="_blank">Insomnia cure✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/insomnia_cure.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/insomnia_cure.cpp">Code</a></td>
 </tr>
 <tr>
 <td>17</td>
 <td><a href="http://codeforces.com/problemset/problem/248/A" target="_blank">Cupboards✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/cupboards.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/cupboards.cpp">Code</a></td>
 </tr>
 <tr>
 <td>18</td>
 <td><a href="http://codeforces.com/problemset/problem/155/A" target="_blank">I_love_\%username\%✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/i_love_username.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/A_I_love_username.cpp">Code</a></td>
 </tr>
 <tr>
 <td>19</td>
@@ -151,73 +151,73 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>20</td>
-<td><a href="http://codeforces.com/problemset/problem/339/A" target="_blank">Helpful Maths</a></td>
+<td><a href="http://codeforces.com/problemset/problem/339/A" target="_blank">Helpful Maths✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/helpful_maths.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/helpful_maths.cpp">Code</a></td>
 </tr>
 <tr>
 <td>21</td>
 <td><a href="http://codeforces.com/problemset/problem/228/A" target="_blank">Is your horseshoe on the other hoof?</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/Is_your_horseshoe_on_the_other_hoof.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/Is_your_horseshoe_on_the_other_hoof.cpp">Code</a></td>
 </tr>
 <tr>
 <td>22</td>
 <td><a href="http://codeforces.com/problemset/problem/71/A" target="_blank">Way Too Long Words</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/way_too_long_word.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/way_too_long_word.cpp">Code</a></td>
 </tr>
 <tr>
 <td>23</td>
 <td><a href="http://codeforces.com/problemset/problem/236/A" target="_blank">Boy or Girl</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/boy_or_girl.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/boy_or_girl.cpp">Code</a></td>
 </tr>
 <tr>
 <td>24</td>
 <td><a href="http://codeforces.com/problemset/problem/141/A" target="_blank">Amusing Joke</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/amusing_joke.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/amusing_joke.cpp">Code</a></td>
 </tr>
 <tr>
 <td>25</td>
 <td><a href="http://codeforces.com/problemset/problem/151/A" target="_blank">Soft Drinking</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/soft_drinks.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/soft_drinks.cpp">Code</a></td>
 </tr>
 <tr>
 <td>26</td>
 <td><a href="http://codeforces.com/problemset/problem/133/A" target="_blank">HQ9+</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/HQ9+.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/HQ9+.cpp">Code</a></td>
 </tr>
 <tr>
 <td>27</td>
 <td><a href="http://codeforces.com/problemset/problem/112/A" target="_blank">Petya and Strings</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/petya_and_string.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/petya_and_string.cpp">Code</a></td>
 </tr>
 <tr>
 <td>28</td>
 <td><a href="http://codeforces.com/problemset/problem/231/A" target="_blank">Team</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/team.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/team.cpp">Code</a></td>
 </tr>
 <tr>
 <td>29</td>
 <td><a href="http://codeforces.com/problemset/problem/282/A" target="_blank">Bit++</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/bits++.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/bits++.cpp">Code</a></td>
 </tr>
 <tr>
 <td>30</td>
@@ -231,14 +231,14 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/272/A" target="_blank">Dima and Friends</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/dima_and_friends.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/dima_and_friends.cpp">Code</a></td>
 </tr>
 <tr>
 <td>32</td>
 <td><a href="http://codeforces.com/problemset/problem/450/A" target="_blank">Jzzhu and Children</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/jzzhu_and_children.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/jzzhu_and_children.cpp">Code</a></td>
 </tr>
 <tr>
 <td>33</td>
@@ -259,35 +259,35 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/224/A" target="_blank">Parallelepiped</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/parallelepiped.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/parallelepiped.cpp">Code</a></td>
 </tr>
 <tr>
 <td>36</td>
 <td><a href="http://codeforces.com/problemset/problem/34/A" target="_blank">Reconnaissance 2</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/reconnaissance-2.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/reconnaissance-2.cpp">Code</a></td>
 </tr>
 <tr>
 <td>37</td>
 <td><a href="http://codeforces.com/problemset/problem/318/A" target="_blank">Even Odds</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/even-odds.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/even-odds.cpp">Code</a></td>
 </tr>
 <tr>
 <td>38</td>
 <td><a href="http://codeforces.com/problemset/problem/205/A" target="_blank">Little Elephant and Rozdil</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/little-elephant-and-rozdil.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/little-elephant-and-rozdil.cpp">Code</a></td>
 </tr>
 <tr>
 <td>39</td>
 <td><a href="http://codeforces.com/problemset/problem/199/A" target="_blank">Hexadecimal's theorem</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/hexadecimal-theorem.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/hexadecimal-theorem.cpp">Code</a></td>
 </tr>
 <tr>
 <td>40</td>
@@ -301,42 +301,42 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/339/B" target="_blank">Xenia and Ringroad</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/xenia-and-ringroad.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/xenia-and-ringroad.cpp">Code</a></td>
 </tr>
 <tr>
 <td>42</td>
 <td><a href="http://codeforces.com/problemset/problem/320/A" target="_blank">Magic Numbers</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/magic-numbers.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/magic-numbers.cpp">Code</a></td>
 </tr>
 <tr>
 <td>43</td>
 <td><a href="http://codeforces.com/problemset/problem/41/A" target="_blank">Translation</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/translation.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/translation.cpp">Code</a></td>
 </tr>
 <tr>
 <td>44</td>
 <td><a href="http://codeforces.com/problemset/problem/43/A" target="_blank">Football</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/football.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/football.cpp">Code</a></td>
 </tr>
 <tr>
 <td>45</td>
 <td><a href="http://codeforces.com/problemset/problem/215/A" target="_blank">Bicycle Chain</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/bicycle-chain.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/bicycle-chain.cpp">Code</a></td>
 </tr>
 <tr>
 <td>46</td>
 <td><a href="http://codeforces.com/problemset/problem/34/B" target="_blank">Sale</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/sale.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/sale.cpp">Code</a></td>
 </tr>
 <tr>
 <td>47</td>
@@ -357,42 +357,42 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/208/A" target="_blank">Dubstep</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/dubstep.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/dubstep.cpp">Code</a></td>
 </tr>
 <tr>
 <td>50</td>
 <td><a href="http://codeforces.com/problemset/problem/219/A" target="_blank">k-String</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/k-string.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/k-string.cpp">Code</a></td>
 </tr>
 <tr>
 <td>51</td>
 <td><a href="http://codeforces.com/problemset/problem/124/A" target="_blank">The number of positions</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/the-number-of-position.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/the-number-of-position.cpp">Code</a></td>
 </tr>
 <tr>
 <td>52</td>
 <td><a href="http://codeforces.com/problemset/problem/96/A" target="_blank">Football</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/football-2.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/football-2.cpp">Code</a></td>
 </tr>
 <tr>
 <td>53</td>
 <td><a href="http://codeforces.com/problemset/problem/118/A" target="_blank">String Task</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/string-task.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/string-task.cpp">Code</a></td>
 </tr>
 <tr>
 <td>54</td>
 <td><a href="http://codeforces.com/problemset/problem/221/A" target="_blank">Little Elephant and Function</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/little-elephant-and-function.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/little-elephant-and-function.cpp">Code</a></td>
 </tr>
 <tr>
 <td>55</td>
@@ -406,21 +406,21 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/230/A" target="_blank">Dragons</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/dragons.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/dragons.cpp">Code</a></td>
 </tr>
 <tr>
 <td>57</td>
 <td><a href="http://codeforces.com/problemset/problem/337/A" target="_blank">Puzzles</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/puzzles.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/puzzles.cpp">Code</a></td>
 </tr>
 <tr>
 <td>58</td>
 <td><a href="http://codeforces.com/problemset/problem/58/A" target="_blank">Chat room</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/chat-room.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/chat-room.cpp">Code</a></td>
 </tr>
 <tr>
 <td>59</td>
@@ -434,28 +434,28 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/445/A" target="_blank">DZY Loves Chessboard</a></td>
 <td>Codeforces</td>
 <td>3</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/dzy-loves-chessboard.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/dzy-loves-chessboard.cpp">Code</a></td>
 </tr>
 <tr>
 <td>61</td>
 <td><a href="http://codeforces.com/problemset/problem/459/B" target="_blank">Pashmak and Flowers</a></td>
 <td>Codeforces</td>
 <td>3</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/pashmak-and-flower.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/pashmak-and-flower.cpp">Code</a></td>
 </tr>
 <tr>
 <td>62</td>
 <td><a href="http://codeforces.com/problemset/problem/352/B" target="_blank">Jeff and Periods</a></td>
 <td>Codeforces</td>
 <td>3</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/jeff-and-periods.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/jeff-and-periods.cpp">Code</a></td>
 </tr>
 <tr>
 <td>63</td>
 <td><a href="http://codeforces.com/problemset/problem/276/B" target="_blank">Little Girl and Game</a></td>
 <td>Codeforces</td>
 <td>3</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/little-girl-and-game.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/little-girl-and-game.cpp">Code</a></td>
 </tr>
 <tr>
 <td>64</td>
