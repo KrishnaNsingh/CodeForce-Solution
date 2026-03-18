@@ -158,7 +158,7 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>21</td>
-<td><a href="http://codeforces.com/problemset/problem/228/A" target="_blank">Is your horseshoe on the other hoof?</a></td>
+<td><a href="http://codeforces.com/problemset/problem/228/A" target="_blank">Is your horseshoe on the other hoof?✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/Is_your_horseshoe_on_the_other_hoof.cpp">Code</a></td>
