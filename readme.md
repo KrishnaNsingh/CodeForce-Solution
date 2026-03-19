@@ -165,21 +165,21 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>22</td>
-<td><a href="http://codeforces.com/problemset/problem/71/A" target="_blank">Way Too Long Words</a></td>
+<td><a href="http://codeforces.com/problemset/problem/71/A" target="_blank">Way Too Long Words✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/way_too_long_word.cpp">Code</a></td>
 </tr>
 <tr>
 <td>23</td>
-<td><a href="http://codeforces.com/problemset/problem/236/A" target="_blank">Boy or Girl</a></td>
+<td><a href="http://codeforces.com/problemset/problem/236/A" target="_blank">Boy or Girl✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/boy_or_girl.cpp">Code</a></td>
 </tr>
 <tr>
 <td>24</td>
-<td><a href="http://codeforces.com/problemset/problem/141/A" target="_blank">Amusing Joke</a></td>
+<td><a href="http://codeforces.com/problemset/problem/141/A" target="_blank">Amusing Joke✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/amusing_joke.cpp">Code</a></td>
