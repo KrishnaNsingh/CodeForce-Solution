@@ -186,7 +186,7 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>25</td>
-<td><a href="http://codeforces.com/problemset/problem/151/A" target="_blank">Soft Drinking</a></td>
+<td><a href="http://codeforces.com/problemset/problem/151/A" target="_blank">Soft Drinking✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/soft_drinks.cpp">Code</a></td>
