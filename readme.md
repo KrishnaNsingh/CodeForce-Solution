@@ -193,7 +193,7 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>26</td>
-<td><a href="http://codeforces.com/problemset/problem/133/A" target="_blank">HQ9+</a></td>
+<td><a href="http://codeforces.com/problemset/problem/133/A" target="_blank">HQ9+✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/HQ9+.cpp">Code</a></td>
