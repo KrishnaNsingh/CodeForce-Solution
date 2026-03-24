@@ -200,14 +200,14 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>27</td>
-<td><a href="http://codeforces.com/problemset/problem/112/A" target="_blank">Petya and Strings</a></td>
+<td><a href="http://codeforces.com/problemset/problem/112/A" target="_blank">Petya and Strings✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/petya_and_string.cpp">Code</a></td>
 </tr>
 <tr>
 <td>28</td>
-<td><a href="http://codeforces.com/problemset/problem/231/A" target="_blank">Team</a></td>
+<td><a href="http://codeforces.com/problemset/problem/231/A" target="_blank">Team✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/team.cpp">Code</a></td>
