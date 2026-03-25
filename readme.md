@@ -214,7 +214,7 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>29</td>
-<td><a href="http://codeforces.com/problemset/problem/282/A" target="_blank">Bit++</a></td>
+<td><a href="http://codeforces.com/problemset/problem/282/A" target="_blank">Bit++✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/bits++.cpp">Code</a></td>
