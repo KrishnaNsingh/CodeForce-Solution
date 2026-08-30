@@ -221,21 +221,21 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>30</td>
-<td><a href="http://codeforces.com/problemset/problem/227/B" target="_blank">Effective Approach</a></td>
+<td><a href="http://codeforces.com/problemset/problem/227/B✅" target="_blank">Effective Approach</a></td>
 <td>Codeforces</td>
 <td>2</td>
 <td><a href="">Code</a></td>
 </tr>
 <tr>
 <td>31</td>
-<td><a href="http://codeforces.com/problemset/problem/272/A" target="_blank">Dima and Friends</a></td>
+<td><a href="http://codeforces.com/problemset/problem/272/A✅" target="_blank">Dima and Friends</a></td>
 <td>Codeforces</td>
 <td>2</td>
 <td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/dima_and_friends.cpp">Code</a></td>
 </tr>
 <tr>
 <td>32</td>
-<td><a href="http://codeforces.com/problemset/problem/450/A" target="_blank">Jzzhu and Children</a></td>
+<td><a href="http://codeforces.com/problemset/problem/450/A✅" target="_blank">Jzzhu and Children</a></td>
 <td>Codeforces</td>
 <td>2</td>
 <td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/jzzhu_and_children.cpp">Code</a></td>
