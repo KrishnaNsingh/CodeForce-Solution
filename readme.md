@@ -210,14 +210,12 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/231/A" target="_blank">Team✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/team.cpp">Code</a></td>
 </tr>
 <tr>
 <td>29</td>
 <td><a href="http://codeforces.com/problemset/problem/282/A" target="_blank">Bit++✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/bits++.cpp">Code</a></td>
 </tr>
 <tr>
 <td>30</td>
@@ -231,14 +229,12 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/272/A✅" target="_blank">Dima and Friends</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/dima_and_friends.cpp">Code</a></td>
 </tr>
 <tr>
 <td>32</td>
 <td><a href="http://codeforces.com/problemset/problem/450/A✅" target="_blank">Jzzhu and Children</a></td>
 <td>Codeforces</td>
 <td>2</td>
-<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/jzzhu_and_children.cpp">Code</a></td>
 </tr>
 <tr>
 <td>33</td>
