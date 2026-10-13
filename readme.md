@@ -42,7 +42,7 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="http://codeforces.com/problemset/problem/32/B" target="_blank">Borze✅</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/borze.cpp">Code</a></td>
+<td><a href="https://github.com/KrishnaNsingh/CodeForce-Solution/blob/main/borze.cpp">Code Twice</a></td>
 </tr>
 <tr>
 <td>5</td>
