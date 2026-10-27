@@ -1,0 +1,1 @@
+{"name":"Local: A_Lights_Out","url":"d:\\OneDrive\\Desktop\\CodeForce DSA\\cf1\\A_Lights_Out.cpp","tests":[{"id":1793116228844,"input":"1 0 0\n0 0 0\n0 0 1","output":"001\n010\n100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OneDrive\\Desktop\\CodeForce DSA\\cf1\\A_Lights_Out.cpp","group":"local","local":true}
